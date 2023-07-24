@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\Icomparable\bin\Debug\Icomparable.exe.config
+C:\Users\tuan\Desktop\Icomparable\bin\Debug\Icomparable.exe
+C:\Users\tuan\Desktop\Icomparable\bin\Debug\Icomparable.pdb
+C:\Users\tuan\Desktop\Icomparable\obj\Debug\Icomparable.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\Icomparable\obj\Debug\Icomparable.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\Icomparable\obj\Debug\Icomparable.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\Icomparable\obj\Debug\Icomparable.exe
+C:\Users\tuan\Desktop\Icomparable\obj\Debug\Icomparable.pdb
